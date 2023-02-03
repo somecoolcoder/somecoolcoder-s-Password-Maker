@@ -27,3 +27,8 @@ CONTROLS
   To include lowercase letters, check on the Include Lowercase checkbox.
   To include uppercase letters, check on the Include Uppercase checkbox.
   You can't have both lowercase and uppercase deselected, as this will result in the application showing an error.
+CHANGELOGS
+  03/02/2023 Version 1.0 Alpha
+   Password Maker was created!
+  03/02/2023 Version 1.0 Alpha
+   Revamped changes to Password Maker, used String module and shortened the variable definitions.
