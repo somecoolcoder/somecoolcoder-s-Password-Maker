@@ -33,7 +33,7 @@ password.
   
   For the checkboxes, to include numbers check on the Include Numbers checkbox.
   
-  To include numbers check on the Include Symbols checkbox.
+  To include symbols check on the Include Symbols checkbox.
   
   To include lowercase letters, check on the Include Lowercase checkbox.
   
