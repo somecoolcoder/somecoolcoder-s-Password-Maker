@@ -13,10 +13,10 @@
  |_| /_/    \_\_____/_____/    \/  \/   \____/|_|  \_\_____/  |_|  |_/_/    \_\_|\_\______|_|  \_(_)
                                                                                                     
                                                                                                                                                                                                                                                                                                                                                               
-DESCRIPTION
+#DESCRIPTION
   This is a simple Python password generator made by coder "somecoolcoder". It has features for you to customize the password.
   Have fun with this application!
-CONTROLS
+#CONTROLS
   To choose the desired length of the password, use the scroll button. 
   Alternatively, you could use the arrow keys, which also works with the key pad.
   To generate a password, press the Generate Password button.
@@ -27,7 +27,7 @@ CONTROLS
   To include lowercase letters, check on the Include Lowercase checkbox.
   To include uppercase letters, check on the Include Uppercase checkbox.
   You can't have both lowercase and uppercase deselected, as this will result in the application showing an error.
-CHANGELOGS
+#CHANGELOGS
   03/02/2023 Version 1.0 Alpha
    Password Maker was created!
   03/02/2023 Version 1.0 Alpha
