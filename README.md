@@ -15,7 +15,8 @@
                                                                                                     
                                                                                                                                                                                                                                                                                                                                                               
 DESCRIPTION
-  This is a simple Python password generator made by coder "somecoolcoder". It has features for you to customize the password. Have fun with this application!
+  This is a simple Python password generator made by coder "somecoolcoder". It has features for you to customize the password.
+  Have fun with this application!
 CONTROLS
   To choose the desired length of the password, use the scroll button. 
   Alternatively, you could use the arrow keys, which also works with the key pad.
