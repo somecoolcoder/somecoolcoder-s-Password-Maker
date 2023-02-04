@@ -48,3 +48,6 @@ password.
   03/02/2023 Version 1.1 Alpha
   
    Revamped changes to Password Maker, used String module and shortened the variable definitions.
+# Publisher
+   somecoolcoder
+
