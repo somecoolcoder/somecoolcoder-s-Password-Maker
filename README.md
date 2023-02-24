@@ -48,8 +48,11 @@ password.
   03/02/2023 Version 1.1 Alpha
   
    Revamped changes to Password Maker, used String module and shortened the variable definitions.
-   
-  06/02/2023 Versions 1.2 Alpha
+      
+  06/02/2023 Version 1.2 Alpha
    Implemented a history button. Also repositioned the widgets and made the screen a bit larger.
+   
+  24/02/2023 Version 1.3 Alpha
+   Made it an executable file!
 # Publisher
    somecoolcoder
